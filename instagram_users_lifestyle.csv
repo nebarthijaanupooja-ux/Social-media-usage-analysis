@@ -1,0 +1,501 @@
+user_id,age,gender,education_level,daily_active_minutes_instagram,reels_watched_per_day,time_on_feed_per_day,User Activity Score,weekly_work_hours,perceived_stress_score,smoking
+1001,24,Female,Master,285,197,40,30.68,38,7,Previous
+1002,37,Male,Bachelor’s,359,59,87,26.45,45,6,Previous
+1003,32,Female,Master,84,123,29,78.24,67,6,No
+1004,28,Male,Bachelor,196,222,155,59.72,63,2,No
+1005,25,Female,Bachelor’s,22,175,230,54.95,63,10,Previous
+1006,38,Male,Bachelor,161,206,69,78.36,51,6,No
+1007,24,Male,High school,177,162,200,81.24,25,4,No
+1008,43,Male,Bachelor,343,118,143,32.71,55,3,No
+1009,36,Female,Bachelor,165,214,169,68.82,57,2,Previous
+1010,40,Male,Bachelor,312,149,102,30.83,30,1,No
+1011,28,Male,Master,172,30,52,80.11,52,5,Yes
+1012,28,Female,HighSchool,212,140,139,72.56,43,2,Previous
+1013,41,Female,Bachelor,92,51,69,96.53,42,2,No
+1014,38,Male,Bachelor,324,236,160,25.52,34,7,No
+1015,21,Male,Bachelor,159,117,220,24.56,46,8,No
+1016,25,Female,Bachelor,206,80,40,42.57,30,10,No
+1017,41,Female,Master,312,223,14,40.94,69,8,No
+1018,20,Female,Bachelor,80,76,220,39.76,36,4,No
+1019,39,Female,High school,217,93,171,92.5,33,1,Previous
+1020,38,Female,High school,314,50,19,39.96,46,7,No
+1021,19,Male,Bachelor,338,200,98,41.76,37,1,No
+1022,41,Female,Bachelor,321,37,139,80.75,47,4,No
+1023,29,Male,High school,30,5,135,55.98,66,8,Yes
+1024,23,Male,Bachelor,81,151,20,82.14,66,2,Previous
+1025,19,Male,Bachelor,352,35,187,25.23,23,6,No
+1026,38,Female,Bachelor,245,212,168,59.01,26,6,No
+1027,18,Male,Bachelor,172,146,65,22.69,64,9,No
+1028,29,Male,Bachelor,218,57,216,25.01,54,5,No
+1029,43,Female,Bachelor,71,52,210,92.51,67,10,No
+1030,39,Male,Bachelor’s,279,73,224,31.14,28,4,No
+1031,29,Male,High school,78,109,92,62.59,27,5,No
+1032,42,Female,Bachelor,91,94,146,52.89,64,10,Yes
+1033,34,Male,Bachelor,167,194,108,47.79,36,5,Previous
+1034,44,Male,Master,82,224,158,91.99,36,8,No
+1035,44,Male,Bachelor,329,198,82,21.75,68,10,No
+1036,27,Female,Master,262,246,165,73.1,52,8,No
+1037,33,Female,Bachelor,349,196,199,97.07,51,2,No
+1038,32,Female,High school,126,202,124,64.81,27,7,No
+1039,32,Male,Master,245,67,16,94.95,38,8,No
+1040,36,Male,Bachelor,332,77,89,24.18,57,6,No
+1041,29,Female,Bachelor,237,165,153,53.5,22,5,Previous
+1042,40,Male,High school,260,173,106,40.81,24,9,No
+1043,37,Male,Bachelor,278,93,13,78.47,32,3,No
+1044,42,Female,Bachelor,281,180,13,98.5,66,10,No
+1045,20,Female,Bachelor,24,17,112,40.52,65,4,No
+1046,22,Male,HighSchool,280,77,49,72.33,50,9,No
+1047,36,Male,High school,73,249,26,35.85,35,6,No
+1048,24,Male,Bachelor,66,81,110,65.23,69,8,No
+1049,38,Female,Bachelor,234,163,112,57.11,51,7,No
+1050,26,Female,High school,196,237,133,97.76,41,2,Yes
+1051,24,Female,Bachelor,28,207,61,68.68,48,3,No
+1052,35,Female,Bachelor,118,72,230,47.96,41,1,No
+1053,21,Male,Bachelor,39,102,61,29.13,62,9,Yes
+1054,42,Female,Bachelor’s,260,129,173,32.1,22,7,No
+1055,31,Female,Bachelor,80,106,133,38.03,29,1,Previous
+1056,35,Female,High school,197,242,175,40.08,61,3,Yes
+1057,43,Female,Master,357,136,187,88.05,40,4,No
+1058,26,Female,High school,81,106,72,64.9,35,4,No
+1059,43,Male,Bachelor,164,23,238,61.87,31,5,No
+1060,38,Male,Master,235,202,125,29.18,21,3,No
+1061,19,Female,Bachelor,22,230,200,88.81,60,3,No
+1062,37,Male,Master,179,86,71,77.83,43,1,No
+1063,32,Female,High school,246,145,236,25.41,54,7,No
+1064,24,Female,Bachelor,288,237,16,76.63,49,10,No
+1065,29,Male,Bachelor,139,27,164,63.48,49,1,Previous
+1066,25,Male,Bachelor,108,87,101,26.54,66,2,No
+1067,32,Female,High school,348,113,223,56.66,54,4,No
+1068,20,Female,High school,87,79,23,58.78,38,4,No
+1069,31,Female,High school,117,133,208,33.26,69,5,No
+1070,34,Male,Bachelor,286,92,238,95.66,27,2,No
+1071,21,Female,Master,124,58,95,88.0,45,4,No
+1072,35,Female,Bachelor’s,342,203,142,73.52,68,1,No
+1073,25,Female,High school,142,93,192,56.98,59,2,Yes
+1074,21,Male,Master,48,217,139,52.94,26,1,No
+1075,19,Female,Bachelor,156,147,71,72.08,49,10,No
+1076,23,Female,Bachelor,214,69,228,63.63,26,10,Previous
+1077,39,Male,High school,245,80,158,24.98,22,4,No
+1078,27,Female,Bachelor,351,203,239,61.0,20,4,No
+1079,21,Female,High school,189,147,88,84.51,55,7,No
+1080,39,Male,Bachelor,28,153,158,56.74,44,10,No
+1081,35,Female,Master,59,151,147,24.16,56,9,Yes
+1082,43,Male,HighSchool,44,64,224,82.9,20,9,No
+1083,29,Male,Bachelor,280,97,67,36.11,34,5,No
+1084,19,Female,High school,245,221,129,40.69,56,10,No
+1085,27,Female,Bachelor,143,165,176,33.18,32,1,No
+1086,21,Female,Bachelor,57,53,142,46.42,59,1,No
+1087,31,Female,Bachelor,347,228,74,80.54,27,6,No
+1088,33,Male,HighSchool,270,245,22,61.55,24,2,No
+1089,32,Female,Bachelor,195,39,222,36.39,28,8,No
+1090,25,Male,HighSchool,109,176,227,90.23,20,9,No
+1091,31,Female,Bachelor,56,106,222,90.37,55,4,No
+1092,40,Female,Bachelor,335,222,190,89.65,54,5,No
+1093,42,Female,Bachelor,195,15,91,39.1,21,8,Previous
+1094,25,Male,Bachelor,303,103,238,56.1,59,3,No
+1095,38,Female,Bachelor,100,204,182,98.8,42,5,No
+1096,33,Female,Bachelor,133,114,169,81.76,28,3,No
+1097,30,Female,Master,59,210,173,22.17,53,10,No
+1098,35,Female,Bachelor,320,78,218,25.22,65,3,No
+1099,32,Male,High school,243,198,236,57.11,33,3,No
+1100,38,Female,Bachelor,337,178,197,92.74,23,7,No
+1101,41,Male,Bachelor,134,13,148,63.1,49,7,Yes
+1102,43,Male,Master,205,7,200,59.83,50,7,No
+1103,42,Male,High school,342,89,158,28.44,57,10,No
+1104,30,Male,High school,75,30,61,72.54,30,8,No
+1105,26,Male,Bachelor,59,76,192,85.77,54,5,No
+1106,32,Male,Bachelor,59,52,126,50.43,27,5,No
+1107,30,Female,Master,256,198,35,82.05,22,4,No
+1108,18,Male,High school,308,202,205,97.16,33,7,Yes
+1109,42,Male,Master,281,160,43,36.3,32,10,No
+1110,24,Male,High school,235,121,61,61.87,64,4,No
+1111,26,Female,Master,166,225,121,42.97,51,2,Yes
+1112,41,Female,Bachelor’s,355,158,91,83.43,53,4,No
+1113,18,Male,High school,187,157,236,66.21,64,8,No
+1114,29,Female,Bachelor,111,16,230,70.77,38,9,Yes
+1115,25,Male,Master,78,137,189,83.83,57,3,Previous
+1116,41,Male,Master,78,230,166,51.68,35,7,Yes
+1117,28,Female,Bachelor,323,52,175,93.21,21,9,No
+1118,36,Male,Master,188,41,51,62.64,59,4,No
+1119,34,Female,High school,288,211,30,32.64,36,10,No
+1120,25,Female,Master,64,48,51,75.67,53,3,Previous
+1121,20,Male,Bachelor,200,232,150,83.46,61,5,No
+1122,20,Male,Bachelor,189,19,122,45.34,35,1,No
+1123,18,Female,Master,210,47,114,88.57,57,3,No
+1124,44,Male,Bachelor,174,180,201,92.49,21,8,No
+1125,22,Male,Bachelor,207,91,26,42.15,21,8,Previous
+1126,27,Male,Bachelor,26,74,129,98.68,45,4,Yes
+1127,24,Female,Master,152,50,146,31.26,32,2,No
+1128,43,Female,High school,254,246,178,36.16,66,8,Yes
+1129,26,Male,Master,64,112,138,34.74,50,8,No
+1130,24,Female,Bachelor,333,127,139,91.52,53,10,No
+1131,26,Female,High school,268,175,69,72.34,58,4,No
+1132,25,Female,Bachelor,50,241,57,32.17,22,3,Previous
+1133,29,Female,Bachelor,42,25,38,55.23,27,2,No
+1134,19,Female,Bachelor,179,155,106,69.22,42,9,Yes
+1135,18,Male,Bachelor,177,111,19,26.68,33,1,No
+1136,33,Male,High school,58,84,67,90.59,46,7,Previous
+1137,40,Male,Bachelor,101,51,197,84.29,48,5,No
+1138,40,Female,Bachelor’s,277,121,30,60.42,58,8,No
+1139,41,Female,Bachelor,225,128,37,97.37,58,4,No
+1140,22,Male,Bachelor,96,147,212,53.42,20,7,No
+1141,20,Female,Bachelor,31,29,43,98.73,36,5,No
+1142,29,Male,Bachelor,314,40,17,73.43,60,5,Yes
+1143,25,Male,Bachelor,243,207,196,70.77,49,9,Yes
+1144,39,Male,Bachelor,32,55,223,33.28,32,9,Yes
+1145,44,Female,Bachelor’s,65,19,209,90.55,40,9,No
+1146,20,Female,Bachelor,174,72,186,54.2,38,6,No
+1147,18,Male,High school,132,25,88,32.98,38,6,No
+1148,20,Male,High school,252,145,154,21.01,44,5,No
+1149,22,Male,High school,36,218,197,64.78,41,9,No
+1150,32,Male,High school,242,23,96,62.19,50,10,No
+1151,31,Female,Bachelor,207,38,97,77.55,36,8,No
+1152,20,Female,Bachelor,182,82,182,91.22,42,7,Yes
+1153,18,Male,Bachelor,345,129,220,26.35,51,7,Previous
+1154,22,Male,High school,93,200,78,78.52,29,6,No
+1155,43,Female,Master,252,244,169,34.99,29,5,No
+1156,40,Female,Bachelor,243,121,181,88.65,55,4,No
+1157,31,Male,Bachelor,338,56,202,85.53,27,3,No
+1158,24,Male,Master,79,242,96,63.26,39,3,Previous
+1159,44,Male,Master,354,31,110,76.82,51,6,Yes
+1160,26,Female,High school,241,161,17,45.15,69,4,No
+1161,32,Female,Bachelor,56,243,86,57.69,33,6,Previous
+1162,32,Female,Master,297,160,209,85.73,69,3,No
+1163,43,Male,Bachelor,215,39,96,56.74,47,4,No
+1164,27,Male,High school,261,140,52,48.62,65,9,No
+1165,30,Female,Bachelor,343,148,138,59.54,43,5,No
+1166,36,Female,Master,238,110,118,86.26,34,7,No
+1167,24,Male,Bachelor,211,168,188,46.82,41,10,No
+1168,34,Female,HighSchool,36,162,161,33.9,49,2,No
+1169,37,Female,Master,31,150,236,76.96,23,5,No
+1170,21,Male,High school,212,6,161,86.08,32,9,No
+1171,22,Female,Bachelor’s,41,181,26,28.05,42,3,No
+1172,40,Male,Bachelor,139,81,142,39.19,27,9,Yes
+1173,24,Male,Master,229,136,157,31.36,37,6,No
+1174,30,Male,Bachelor,325,94,30,47.84,31,4,No
+1175,32,Male,Bachelor,289,93,67,56.03,50,7,No
+1176,28,Male,Bachelor,211,98,168,79.91,33,8,No
+1177,21,Male,Bachelor,194,207,119,72.09,53,6,No
+1178,30,Male,Bachelor,304,11,237,69.67,37,5,No
+1179,24,Female,Master,223,99,148,48.19,53,6,No
+1180,44,Male,Bachelor,183,112,189,87.32,30,5,Yes
+1181,36,Male,Bachelor,270,78,152,57.7,60,8,No
+1182,39,Female,Bachelor,246,43,220,98.33,31,1,No
+1183,19,Female,Bachelor,26,145,144,70.73,68,7,No
+1184,27,Female,Bachelor,48,163,37,30.1,34,10,No
+1185,30,Male,Bachelor,52,75,60,74.09,50,10,No
+1186,42,Female,Bachelor,153,195,195,46.01,68,2,No
+1187,38,Male,High school,98,60,14,74.91,48,9,No
+1188,23,Male,High school,77,245,14,25.57,45,1,No
+1189,29,Male,Bachelor,45,174,103,33.99,37,10,No
+1190,29,Male,Bachelor,245,193,105,88.46,51,6,Previous
+1191,37,Female,Bachelor,304,46,17,38.17,41,9,Previous
+1192,28,Female,Bachelor,23,188,73,86.96,57,1,No
+1193,43,Male,Bachelor,118,40,147,42.34,36,4,No
+1194,40,Male,High school,58,88,47,71.43,42,4,No
+1195,42,Male,Master,290,200,120,75.53,43,9,No
+1196,24,Female,HighSchool,304,122,233,61.01,69,5,Yes
+1197,18,Male,Bachelor,176,11,121,44.42,27,5,No
+1198,18,Male,Bachelor,94,58,229,37.01,60,6,Previous
+1199,42,Female,Master,307,133,90,22.66,25,1,No
+1200,44,Female,Bachelor,149,176,232,44.32,24,1,No
+1201,42,Male,Bachelor,194,124,145,72.25,63,9,No
+1202,37,Female,Bachelor,103,177,113,95.06,48,3,No
+1203,30,Female,HighSchool,41,110,162,89.7,47,4,No
+1204,26,Male,High school,46,51,82,81.29,30,1,Yes
+1205,20,Female,Bachelor,214,127,203,83.08,20,9,No
+1206,24,Male,Bachelor,356,145,216,73.2,62,8,Previous
+1207,23,Female,Bachelor,255,123,187,40.82,38,2,Previous
+1208,25,Male,High school,111,154,204,92.58,28,8,No
+1209,44,Male,Bachelor,40,122,58,73.66,46,7,No
+1210,26,Male,Bachelor,322,25,45,64.84,53,6,No
+1211,22,Female,Bachelor,103,218,135,28.88,63,1,No
+1212,18,Male,Bachelor,281,224,77,55.76,23,7,No
+1213,36,Female,Bachelor,166,141,87,56.83,55,10,No
+1214,27,Male,Bachelor,276,30,114,89.17,37,7,No
+1215,29,Male,Bachelor,77,13,178,63.73,34,9,No
+1216,41,Female,Bachelor,34,19,226,50.43,32,1,No
+1217,32,Male,Bachelor,181,14,131,98.14,38,2,No
+1218,44,Male,High school,182,220,128,28.86,68,9,No
+1219,39,Female,Bachelor,339,126,199,53.8,25,9,No
+1220,41,Male,Bachelor,300,125,123,23.36,67,6,Yes
+1221,26,Male,Bachelor,299,129,19,79.19,31,6,No
+1222,37,Male,Bachelor,31,174,158,93.45,56,4,No
+1223,34,Male,Master,293,76,173,42.4,36,4,No
+1224,34,Female,Master,290,156,149,88.67,42,5,No
+1225,43,Female,Bachelor,227,212,100,43.38,45,3,No
+1226,37,Male,High school,46,53,11,92.86,48,1,No
+1227,29,Female,Bachelor,91,158,127,80.32,52,1,Previous
+1228,24,Male,HighSchool,79,95,22,84.39,46,7,Previous
+1229,19,Female,Bachelor,164,41,190,21.44,44,1,No
+1230,20,Male,Master,112,72,169,97.02,29,1,Yes
+1231,34,Male,High school,328,54,104,78.13,66,3,No
+1232,22,Male,High school,27,156,153,44.38,42,10,No
+1233,34,Male,Bachelor,98,23,41,86.35,40,4,No
+1234,41,Male,Bachelor,46,104,41,42.52,40,4,No
+1235,34,Male,Bachelor,193,64,133,89.82,62,2,No
+1236,44,Female,High school,69,171,235,29.01,32,1,Previous
+1237,34,Male,Master,218,206,20,76.29,56,3,No
+1238,19,Female,Bachelor,200,93,19,63.26,52,4,No
+1239,19,Male,High school,43,150,24,27.72,43,3,Previous
+1240,39,Female,Bachelor,335,151,26,39.35,63,8,Yes
+1241,40,Female,Bachelor,65,168,177,20.99,30,10,No
+1242,22,Female,Bachelor,34,206,155,57.5,36,1,Yes
+1243,18,Male,High school,172,229,192,44.1,23,2,Yes
+1244,18,Male,High school,241,187,210,67.87,66,7,No
+1245,36,Female,High school,225,246,162,43.78,44,4,No
+1246,19,Male,Master,292,73,68,43.99,49,8,Previous
+1247,38,Female,Master,255,179,87,79.46,28,3,Yes
+1248,29,Male,HighSchool,359,53,133,23.85,40,6,No
+1249,43,Female,High school,247,231,226,92.23,39,9,Yes
+1250,23,Female,High school,28,112,123,88.18,38,1,No
+1251,40,Male,High school,185,230,31,73.42,38,1,No
+1252,21,Female,Master,338,165,167,67.46,31,8,No
+1253,40,Male,Bachelor,233,123,221,91.38,56,3,No
+1254,28,Female,Bachelor,136,153,222,34.83,61,5,Yes
+1255,41,Female,High school,91,213,181,26.32,36,1,No
+1256,44,Male,Bachelor’s,83,154,41,39.16,56,5,No
+1257,34,Male,Bachelor,224,180,188,83.57,67,6,No
+1258,23,Male,Bachelor,228,41,183,22.77,58,8,Yes
+1259,41,Female,High school,91,147,122,66.62,47,3,No
+1260,22,Male,Bachelor,296,167,129,99.64,60,3,No
+1261,37,Female,Bachelor,293,224,158,88.46,54,10,No
+1262,19,Female,High school,339,203,236,61.72,66,9,No
+1263,23,Male,Bachelor,357,164,131,25.09,67,4,Previous
+1264,39,Male,HighSchool,114,15,41,86.51,37,4,Previous
+1265,28,Female,Master,185,142,231,67.92,33,7,No
+1266,33,Female,Bachelor,51,205,128,29.19,54,2,No
+1267,33,Male,Bachelor,30,82,48,27.51,63,8,No
+1268,18,Male,Master,320,81,21,92.77,60,6,No
+1269,26,Male,Bachelor,236,189,184,73.54,26,3,No
+1270,44,Male,High school,308,157,27,86.34,60,9,No
+1271,23,Male,Master,121,6,158,90.32,32,5,No
+1272,33,Female,High school,286,68,150,65.74,37,8,No
+1273,20,Female,Bachelor,233,39,158,61.4,56,7,No
+1274,37,Female,High school,198,11,135,54.43,32,8,No
+1275,44,Female,High school,107,89,145,45.36,55,7,No
+1276,21,Male,Bachelor,60,150,55,54.77,50,3,No
+1277,36,Male,Bachelor,95,71,113,81.91,21,2,Yes
+1278,43,Male,Bachelor,65,46,144,68.15,35,7,No
+1279,20,Female,High school,179,122,160,91.4,28,3,No
+1280,36,Female,High school,99,129,233,55.47,28,3,Yes
+1281,37,Male,Bachelor,329,171,212,68.57,57,2,Previous
+1282,24,Male,Master,105,173,95,70.5,30,4,Previous
+1283,37,Female,Bachelor,111,245,159,67.34,41,8,Yes
+1284,26,Female,Bachelor’s,167,207,98,76.21,52,1,No
+1285,18,Male,Master,180,235,31,38.99,55,1,No
+1286,25,Male,Bachelor,221,28,101,60.99,64,5,No
+1287,24,Female,High school,261,192,38,28.34,42,5,No
+1288,35,Male,Bachelor,21,50,22,50.76,64,1,Previous
+1289,25,Male,Bachelor,244,23,219,59.01,64,6,Yes
+1290,18,Male,Bachelor,308,72,11,72.18,53,1,No
+1291,28,Female,Bachelor,252,222,38,96.04,28,5,Previous
+1292,42,Female,HighSchool,96,106,222,68.05,43,9,Previous
+1293,42,Female,Bachelor,135,46,216,79.49,27,5,Previous
+1294,35,Female,Bachelor,173,36,189,60.5,26,6,No
+1295,40,Female,Bachelor,122,171,36,70.73,55,8,Yes
+1296,27,Female,Bachelor,213,113,59,25.67,37,1,Yes
+1297,20,Female,Master,185,242,104,40.35,22,2,No
+1298,24,Male,Bachelor,109,40,216,48.95,47,9,No
+1299,33,Male,Bachelor,193,236,160,57.8,25,3,No
+1300,43,Male,Bachelor,141,233,97,23.65,63,6,No
+1301,33,Male,Bachelor,162,101,53,31.2,63,5,No
+1302,42,Male,Bachelor,125,168,214,42.15,40,2,Previous
+1303,37,Male,Bachelor,324,135,31,97.72,47,7,Previous
+1304,34,Male,Bachelor,336,77,180,46.51,59,4,Previous
+1305,19,Female,Bachelor,142,140,174,58.56,20,1,No
+1306,18,Female,High school,28,101,198,35.69,55,4,No
+1307,33,Male,Bachelor,281,127,106,68.86,40,6,Previous
+1308,29,Male,High school,92,74,193,42.45,62,7,No
+1309,22,Female,Bachelor,242,173,12,36.56,54,7,Yes
+1310,22,Male,Bachelor,60,235,200,61.33,32,7,No
+1311,44,Male,Master,223,200,127,20.44,68,3,No
+1312,40,Female,Bachelor,283,17,28,20.61,29,6,Yes
+1313,26,Male,Master,347,53,32,37.53,63,8,No
+1314,26,Female,Master,197,64,166,22.94,66,4,No
+1315,20,Male,Master,337,134,39,28.64,29,8,No
+1316,36,Female,Master,103,192,48,47.11,65,2,No
+1317,33,Female,HighSchool,337,9,117,84.21,32,10,No
+1318,33,Female,Bachelor,130,176,120,65.76,56,9,No
+1319,20,Male,Bachelor,270,31,34,61.01,57,9,No
+1320,37,Female,High school,26,164,137,43.48,43,8,No
+1321,41,Male,Bachelor,103,153,238,94.54,21,10,No
+1322,39,Male,Bachelor,227,12,120,51.76,41,10,No
+1323,41,Male,Bachelor,333,234,145,26.97,36,1,No
+1324,18,Male,Bachelor,41,204,115,69.37,55,2,No
+1325,41,Female,Master,22,54,195,29.11,33,6,Yes
+1326,37,Female,Bachelor,146,71,153,47.62,29,10,Previous
+1327,28,Male,Bachelor,316,48,81,60.59,54,5,No
+1328,34,Male,Master,207,129,138,89.94,44,9,No
+1329,25,Female,Master,33,62,117,59.48,22,5,No
+1330,21,Male,Bachelor’s,31,7,14,76.18,66,2,No
+1331,23,Female,Master,106,90,12,99.43,57,10,No
+1332,25,Male,Master,31,74,202,30.52,36,4,Previous
+1333,37,Male,Master,44,134,141,41.98,31,9,Yes
+1334,20,Female,Bachelor’s,320,219,113,51.57,43,1,No
+1335,33,Male,Bachelor,262,176,236,53.75,48,1,No
+1336,42,Female,Bachelor,141,6,233,52.88,62,7,No
+1337,20,Male,High school,166,106,73,92.61,44,3,No
+1338,42,Male,Bachelor,74,213,115,77.12,55,10,No
+1339,35,Male,HighSchool,257,39,107,68.63,45,2,Previous
+1340,31,Female,Master,192,102,226,44.75,57,9,No
+1341,35,Male,High school,240,219,19,85.9,20,3,No
+1342,19,Male,Master,138,34,158,96.4,39,2,No
+1343,39,Male,Bachelor,328,120,137,85.7,47,8,Yes
+1344,20,Male,Bachelor,202,12,55,20.13,35,10,No
+1345,33,Female,Master,307,154,228,70.91,66,6,Yes
+1346,26,Female,Bachelor,326,48,164,24.09,36,6,No
+1347,21,Male,Bachelor,319,190,75,40.61,59,10,Yes
+1348,18,Female,Master,101,40,178,24.76,47,7,No
+1349,21,Male,Bachelor,230,201,121,68.3,31,7,No
+1350,18,Male,High school,169,81,22,74.93,46,6,No
+1351,31,Male,Master,56,225,146,29.16,61,4,Previous
+1352,38,Female,HighSchool,331,35,173,50.71,66,9,Yes
+1353,33,Female,HighSchool,78,51,95,56.5,49,6,Yes
+1354,37,Female,Bachelor,150,59,99,49.52,60,4,Yes
+1355,41,Female,Master,221,212,67,29.68,53,3,No
+1356,25,Female,High school,262,110,63,53.52,56,4,No
+1357,24,Female,Master,54,194,21,80.09,25,3,No
+1358,20,Female,Bachelor,112,162,218,25.68,26,2,Yes
+1359,34,Female,High school,226,125,215,26.41,51,5,No
+1360,18,Female,Bachelor,351,59,23,48.38,51,2,No
+1361,33,Male,Master,324,148,130,95.34,44,6,No
+1362,29,Female,Bachelor,232,16,171,73.49,52,3,No
+1363,44,Female,High school,178,149,190,74.29,26,6,No
+1364,36,Female,Bachelor,43,148,130,48.95,31,10,Yes
+1365,39,Female,Bachelor’s,312,144,29,67.49,35,9,No
+1366,40,Female,Bachelor,23,140,84,20.81,35,1,No
+1367,39,Female,Bachelor,239,216,153,70.89,62,6,Yes
+1368,31,Female,Bachelor,39,7,232,93.06,55,9,No
+1369,23,Female,HighSchool,171,148,79,69.01,32,4,No
+1370,23,Female,Bachelor,69,34,65,89.9,26,2,Previous
+1371,30,Female,Bachelor,196,241,220,77.92,55,4,No
+1372,36,Female,High school,115,27,110,29.64,66,1,No
+1373,39,Male,Master,124,96,195,92.2,28,3,No
+1374,25,Male,Bachelor,269,119,141,25.32,51,10,Previous
+1375,44,Female,Bachelor,136,108,120,62.72,30,9,No
+1376,44,Female,Master,247,122,134,31.37,27,10,No
+1377,19,Male,Bachelor,85,9,141,20.94,52,5,No
+1378,38,Female,Master,354,216,29,53.76,42,6,No
+1379,18,Male,Bachelor,281,108,147,43.6,44,3,Yes
+1380,32,Male,High school,314,112,33,58.88,27,5,Yes
+1381,18,Male,Bachelor,262,69,236,66.18,64,8,No
+1382,22,Male,Bachelor,205,125,163,23.5,41,6,Previous
+1383,33,Male,Bachelor,265,34,46,29.84,23,4,No
+1384,36,Female,High school,144,153,239,64.69,59,2,No
+1385,21,Male,High school,287,88,222,47.45,22,9,No
+1386,20,Female,Bachelor,150,202,63,78.33,48,1,No
+1387,34,Female,Bachelor,256,154,112,72.18,60,1,No
+1388,34,Male,HighSchool,37,214,158,87.65,48,4,Yes
+1389,29,Male,Bachelor,59,204,211,75.4,53,7,No
+1390,31,Female,Bachelor,40,235,47,54.39,53,1,No
+1391,38,Male,Bachelor,244,36,183,73.84,47,9,No
+1392,23,Male,HighSchool,301,165,13,42.03,32,4,No
+1393,20,Female,Bachelor’s,27,249,197,44.51,34,3,Yes
+1394,26,Female,Bachelor,119,20,66,83.12,42,1,Yes
+1395,22,Male,Bachelor,259,208,182,55.71,63,10,Yes
+1396,41,Female,Bachelor,106,42,29,83.87,45,4,No
+1397,34,Male,Bachelor,317,248,26,85.79,23,9,No
+1398,31,Male,Master,33,230,128,88.6,45,10,No
+1399,38,Male,High school,353,146,80,93.33,59,6,Yes
+1400,20,Female,High school,21,40,13,54.48,28,6,No
+1401,18,Female,Bachelor,312,229,230,45.51,24,1,No
+1402,37,Female,High school,344,155,23,66.58,51,10,No
+1403,38,Female,Master,60,118,12,49.69,39,2,No
+1404,40,Female,Bachelor,337,241,225,68.09,69,6,No
+1405,18,Male,Master,335,70,238,76.45,30,2,No
+1406,20,Male,Bachelor,130,109,89,75.07,34,3,Yes
+1407,35,Male,Bachelor,33,89,195,49.96,51,4,No
+1408,42,Male,Master,250,6,64,33.35,47,5,Yes
+1409,27,Female,Bachelor,103,223,141,54.44,41,9,Previous
+1410,39,Male,Bachelor’s,149,205,129,31.41,60,4,No
+1411,43,Female,High school,250,197,33,91.21,36,9,No
+1412,20,Male,Bachelor,345,79,171,47.67,45,10,No
+1413,25,Female,Bachelor,164,71,167,32.36,63,3,No
+1414,31,Female,Bachelor,47,184,91,22.04,26,8,No
+1415,41,Male,High school,85,194,156,71.67,61,1,No
+1416,35,Male,Master,182,155,168,70.95,45,9,No
+1417,32,Male,Master,248,158,197,47.25,44,9,Previous
+1418,39,Male,Master,280,200,69,25.74,29,10,No
+1419,40,Female,High school,183,214,156,52.77,64,2,No
+1420,19,Male,Bachelor,320,59,58,44.9,38,4,No
+1421,44,Male,Bachelor,322,10,72,74.17,30,8,No
+1422,27,Female,Bachelor,306,167,119,68.46,32,7,No
+1423,19,Male,Bachelor,29,154,220,49.17,27,1,No
+1424,43,Male,Bachelor,214,175,159,37.43,59,5,Yes
+1425,34,Male,Bachelor,137,147,161,99.04,23,7,No
+1426,25,Male,Bachelor,289,90,118,56.32,66,4,Yes
+1427,18,Male,Bachelor,99,64,85,75.06,50,1,No
+1428,26,Female,High school,112,105,39,31.24,47,9,No
+1429,28,Male,High school,285,248,67,58.85,30,5,No
+1430,39,Male,HighSchool,351,238,239,22.2,62,2,No
+1431,33,Male,Master,276,16,126,60.44,20,8,No
+1432,24,Male,High school,152,243,168,97.12,68,2,No
+1433,27,Male,High school,295,53,109,50.74,66,3,No
+1434,40,Female,Bachelor,283,46,201,23.12,57,10,No
+1435,43,Male,Master,190,170,28,22.48,43,1,No
+1436,20,Female,Bachelor’s,20,86,185,51.04,66,2,No
+1437,35,Female,Bachelor,332,177,182,32.8,50,7,No
+1438,42,Male,Bachelor,83,39,237,21.87,60,10,Previous
+1439,41,Male,Bachelor,303,162,103,80.5,65,2,No
+1440,30,Male,High school,140,220,192,56.68,69,6,No
+1441,43,Male,Master,126,238,122,43.14,45,3,No
+1442,24,Female,Bachelor,194,162,192,92.01,68,4,No
+1443,42,Male,Bachelor,223,210,234,29.29,69,8,No
+1444,21,Male,Bachelor,184,138,155,96.47,24,3,Yes
+1445,30,Male,Bachelor,324,71,72,45.12,39,10,No
+1446,37,Male,Bachelor,139,84,125,91.07,60,6,No
+1447,18,Male,Master,63,11,122,68.24,30,1,No
+1448,25,Male,Master,331,184,229,86.14,52,7,No
+1449,31,Female,Bachelor,175,18,56,98.72,69,8,No
+1450,33,Female,Bachelor,226,77,212,43.07,57,8,No
+1451,31,Male,High school,127,147,66,96.89,46,3,No
+1452,29,Male,Bachelor,270,153,127,51.16,53,10,Yes
+1453,36,Male,High school,353,167,54,50.84,34,1,No
+1454,40,Female,Bachelor,149,70,170,47.23,51,9,No
+1455,32,Male,Master,312,95,154,63.31,40,6,No
+1456,19,Female,Bachelor,39,134,207,32.33,65,9,No
+1457,19,Male,Bachelor,301,167,13,64.3,24,7,Yes
+1458,40,Male,Bachelor,304,214,157,63.34,25,1,No
+1459,39,Male,High school,20,210,56,80.95,57,1,Previous
+1460,36,Male,Bachelor,138,24,228,86.69,41,6,No
+1461,42,Female,Bachelor’s,54,214,152,55.24,37,5,No
+1462,43,Female,High school,217,14,207,44.19,33,9,No
+1463,39,Male,Bachelor,264,29,56,40.75,29,2,No
+1464,43,Male,Bachelor’s,78,198,87,35.57,65,8,No
+1465,43,Female,Bachelor,344,29,133,24.61,32,5,No
+1466,39,Female,High school,180,58,84,47.4,50,2,Yes
+1467,34,Female,Bachelor,198,37,112,41.62,49,10,No
+1468,37,Female,Bachelor,225,168,146,97.31,22,6,No
+1469,27,Male,Bachelor,31,99,99,64.62,49,10,No
+1470,23,Female,Bachelor,295,18,153,47.78,25,8,No
+1471,32,Male,Bachelor,200,69,78,66.44,48,4,No
+1472,39,Female,Bachelor,261,114,70,31.14,27,2,No
+1473,28,Female,Bachelor,235,84,147,55.52,63,5,No
+1474,22,Female,Master,270,58,59,70.1,64,2,No
+1475,18,Female,Bachelor’s,318,242,12,59.11,62,2,No
+1476,25,Female,Bachelor,145,129,214,52.14,63,6,No
+1477,38,Male,Bachelor,236,184,116,99.51,52,10,No
+1478,29,Male,Bachelor,325,135,122,90.43,36,9,No
+1479,29,Female,Master,304,231,103,69.87,67,4,Yes
+1480,22,Female,Bachelor’s,204,173,127,65.55,30,6,No
+1481,24,Male,Bachelor,58,138,207,69.65,32,7,No
+1482,21,Female,Bachelor,242,29,90,36.1,69,6,No
+1483,23,Female,Bachelor,203,145,118,51.61,30,8,No
+1484,30,Male,Bachelor,197,121,60,23.16,50,4,No
+1485,37,Female,Master,313,230,156,58.04,47,1,Yes
+1486,32,Female,Bachelor,359,140,179,63.44,63,7,No
+1487,20,Male,Bachelor,170,153,44,38.22,25,3,No
+1488,40,Male,Master,145,230,55,97.12,60,6,No
+1489,25,Male,High school,320,200,163,92.76,35,2,No
+1490,37,Female,High school,327,29,78,77.77,23,9,No
+1491,33,Male,Bachelor,355,83,102,62.67,54,1,No
+1492,30,Male,Master,253,72,73,89.6,67,6,No
+1493,35,Male,High school,27,177,174,30.45,45,6,Previous
+1494,27,Male,High school,148,192,221,83.24,31,5,No
+1495,36,Male,High school,283,16,58,29.99,30,5,No
+1496,34,Male,High school,176,36,158,83.54,56,1,No
+1497,41,Female,High school,24,132,83,42.06,44,10,No
+1498,36,Female,Bachelor,105,100,201,90.17,37,5,Yes
+1499,43,Male,Bachelor,194,96,14,95.52,38,2,No
+1500,40,Male,Bachelor,309,145,109,31.9,42,7,No
